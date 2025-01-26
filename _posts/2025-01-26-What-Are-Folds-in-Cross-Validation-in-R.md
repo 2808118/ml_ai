@@ -5,7 +5,7 @@ tags: R programming
 categories: R, Machine Learning
 ---
 
-# Structure of the Article
+## Structure of the Article
 
 1. **Introduction**  
 2. **What Are Folds?**  
@@ -88,6 +88,7 @@ model <- train(
 
 # View the model results
 print(model)
+```
 
 ## 7. Conclusion
 
@@ -95,10 +96,10 @@ Folds are a fundamental part of cross-validation, enabling robust model evaluati
 
 ## 8. References
 
-Kohavi, R. (1995). A Study of Cross-Validation and Bootstrap for Accuracy Estimation and Model Selection.
-Hastie, T., Tibshirani, R., & Friedman, J. (2009). The Elements of Statistical Learning.
-Kuhn, M., & Johnson, K. (2013). Applied Predictive Modeling.
-Caret Package Documentation: https://topepo.github.io/caret/
+- Kohavi, R. (1995). A Study of Cross-Validation and Bootstrap for Accuracy Estimation and Model Selection.
+- Hastie, T., Tibshirani, R., & Friedman, J. (2009). The Elements of Statistical Learning.
+- Kuhn, M., & Johnson, K. (2013). Applied Predictive Modeling.
+- Caret Package Documentation: https://topepo.github.io/caret/
 
 ## Tags
 
