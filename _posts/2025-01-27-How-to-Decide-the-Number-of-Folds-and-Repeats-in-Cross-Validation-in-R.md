@@ -1,3 +1,10 @@
+---
+layout: post
+title: 2025.01.27 How to Decide the Number of Folds and Repeats in Cross-Validation in R?
+tags: R programming
+categories: R, Machine Learning
+---
+
 ## Structure of the Article
 
 1. **Introduction**  
