@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Resources
+title: References
 ---
-
-## References
 
 1. **Kohavi, R. (1995).** *A Study of Cross-Validation and Bootstrap for Accuracy Estimation and Model Selection.*  
    [Link to Paper](https://www.cs.cmu.edu/~schneide/tut5/node42.html)
