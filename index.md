@@ -24,4 +24,3 @@ Welcome to **The Art of Machine Learning**—where data becomes art, and art bec
 
 ---
 
-### Weekly Blog
