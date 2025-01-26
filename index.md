@@ -6,11 +6,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Welcome to My Machine Learning Blog
+list_title: Latest Posts
 ---
-
-
-
-# Welcome to The Art of Machine Learning  
 
 In a world where technology and creativity converge, machine learning stands as a testament to humanity's boundless curiosity and ingenuity. It is not just a science of algorithms and data but an art form—a canvas where mathematics meets imagination, and where the boundaries of human understanding are continually redefined.  
 
