@@ -1,4 +1,11 @@
-# Structure of the Article
+---
+layout: post
+title: 2025.01.27 What Are Repeats in Cross-Validation in R?
+tags: R programming
+categories: R, Machine Learning
+---
+
+## Structure of the Article
 
 1. **Introduction**  
 2. **What Are Repeats?**  
