@@ -1,3 +1,10 @@
+---
+layout: post
+title: 2025.01.27 Overview of "Writing in the science" from Stanford University
+tags: Scientific writing
+categories: Scientific writing, thesis
+---
+
 Recently, I had the opportunity to watch _Writing in the Sciences_ by Kristin Sainani, an associate professor at Stanford University. This insightful course offers a deep dive into the principles of clear and effective scientific communication, making it an invaluable resource for researchers, academics, and anyone passionate about sharing knowledge.
 
 Inspired by her expertise and engaging teaching style, I’ve decided to reflect on what I’ve learned and share my own journey in improving scientific writing.
