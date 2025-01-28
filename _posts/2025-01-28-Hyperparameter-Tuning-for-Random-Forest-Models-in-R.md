@@ -1,3 +1,9 @@
+---
+layout: post
+title: 2025.01.28 Hyperparameter Tuning for Random Forest in R: A step by step guide
+tags: R programming
+categories: R, Machine Learning
+---
 ## **Table of Contents**
 1. [Introduction](#introduction)
 2. [Why Hyperparameter Tuning?](#why-hyperparameter-tuning)
