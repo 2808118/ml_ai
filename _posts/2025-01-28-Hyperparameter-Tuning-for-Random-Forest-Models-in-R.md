@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025.01.28 Hyperparameter Tuning for Random Forest in R: A step by step guide
+title: 2025.01.28 Hyperparameter Tuning for Random Forest in R A step by step guide
 tags: R programming
 categories: R, Machine Learning
 ---
