@@ -1,4 +1,9 @@
-# Writing the Results Section: A Guide to Summarizing Your Findings Effectively  
+---
+layout: post
+title: 2025.01.29 Writing the Results Section - A Guide to Summarizing Your Findings Effectively  
+tags: Scientific Writing
+categories: Scietific Writing
+---
 
 In the previous module, we discussed the importance of creating clear and compelling tables and figures that tell the story of your research. Now, it’s time to dive into writing the **Results section**—the part of your manuscript where you present your findings. While this section may seem straightforward, it’s easy to fall into common pitfalls that can make your writing tedious or redundant. In this module, we’ll explore how to write a Results section that is concise, informative, and engaging.  
 
