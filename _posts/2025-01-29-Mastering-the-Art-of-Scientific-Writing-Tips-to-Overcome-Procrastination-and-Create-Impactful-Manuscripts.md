@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025.01.29 Mastering the Art of Scientific Writing - Tables and Figures
+title: 2025.01.29 Mastering the Art of Scientific Writing (1) - Tables and Figures
 tags: Scientific Writing
 categories: Scietific Writing
 ---
