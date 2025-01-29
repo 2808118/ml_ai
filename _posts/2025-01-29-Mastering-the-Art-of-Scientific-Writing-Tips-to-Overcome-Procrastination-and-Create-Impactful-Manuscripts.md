@@ -1,4 +1,9 @@
-# Mastering the Art of Scientific Writing: Tips to Overcome Procrastination and Create Impactful Manuscripts  
+---
+layout: post
+title: 2025.01.29 Mastering the Art of Scientific Writing: Tips to Overcome Procrastination and Create Impactful Manuscripts  
+tags: R programming
+categories: R, Machine Learning
+---
 
 Writing a scientific manuscript can feel like a daunting task. Whether you're a seasoned researcher or a first-time author, the process often comes with its fair share of procrastination, anxiety, and uncertainty. But fear not! By breaking down the process into manageable steps and focusing on the most critical elements, you can transform your writing experience from overwhelming to empowering. In this blog, we’ll explore practical strategies to overcome procrastination, structure your manuscript effectively, and create compelling tables, figures, and diagrams that bring your research to life.  
 
