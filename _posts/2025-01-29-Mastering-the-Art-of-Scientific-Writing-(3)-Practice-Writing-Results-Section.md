@@ -1,3 +1,10 @@
+---
+layout: post
+title: 2025.01.29 Mastering the Art of Scientific Writing (3) Practice Writing Results section
+tags: Scientific Writing
+categories: Scietific Writing
+---
+
 # Mastering the Art of Scientific Writing (3) Practice Writing Results section 
 
 In this module, we’ll dive into an active editing exercise to refine a paragraph from a results section. The goal is to make the text concise, clear, and focused on the key findings, while avoiding redundancy and unnecessary details. Let’s get started!  
