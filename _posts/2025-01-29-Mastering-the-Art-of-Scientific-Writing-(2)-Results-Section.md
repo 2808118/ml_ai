@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025.01.29 Mastering the Art of Scientific Writing (2) - Writing the Results Section
+title: 2025.01.29 Mastering the Art of Scientific Writing (2) - Results Section
 tags: Scientific Writing
 categories: Scietific Writing
 ---
