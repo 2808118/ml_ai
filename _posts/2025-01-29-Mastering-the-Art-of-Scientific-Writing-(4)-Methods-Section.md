@@ -1,4 +1,9 @@
-# Mastering the Art of Scientific Writing (4) - Methods Section
+---
+layout: post
+title: 2025.01.29 Mastering the Art of Scientific Writing (4) - Methods Section
+tags: Scientific Writing
+categories: Scietific Writing
+---
 
 The Methods section is the backbone of any scientific manuscript. It’s the recipe that allows others to replicate your study, ensuring the credibility and reproducibility of your research. However, writing this section can be challenging—it needs to be detailed enough to be useful but concise enough to keep readers engaged. In this blog, we’ll explore how to craft a Methods section that is clear, organized, and reader-friendly.  
 
