@@ -1,3 +1,10 @@
+---
+layout: post
+title: 2025.02.01 Understanding Variable Importance - Key Metrics in Machine Learning Models
+tags: R Programming, Machine Learning
+categories: Machine Learning
+---
+
 1. **Introduction**
     
 2. **Why Variable Importance Matters**
