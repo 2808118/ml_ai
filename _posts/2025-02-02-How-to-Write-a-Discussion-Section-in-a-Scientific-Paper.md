@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025.02.02 How to Write a Discussion Section in a Scientific Paper: A Step-by-Step Guide  
+title: 2025.02.02 How to Write a Discussion Section in a Scientific Paper A Step-by-Step Guide  
 tags: Scientific writing
 categories: Scientific writing, thesis
 ---
