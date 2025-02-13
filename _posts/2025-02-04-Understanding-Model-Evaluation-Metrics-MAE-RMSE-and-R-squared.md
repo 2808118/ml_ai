@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025.02.13 Understanding Model Evaluation Metrics: MAE, RMSE, and R-squared  
+title: 2025.02.13 Understanding Model Evaluation Metrics MAE RMSE and R-squared  
 tags: R, Machine Learning
 categories: R, Machine Learning
 ---
