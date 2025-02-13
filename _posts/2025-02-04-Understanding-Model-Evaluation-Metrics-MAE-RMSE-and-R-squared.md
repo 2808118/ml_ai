@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025.02.13 Understanding Model Evaluation Metrics MAE RMSE and R-squared  
+title: 2025.02.13 Understanding Model Evaluation Metrics MAE RMSE and R squared  
 tags: R, Machine Learning
 categories: R, Machine Learning
 ---
@@ -77,9 +77,8 @@ $$
 R-squared measures the proportion of the variance in the dependent variable that is predictable from the independent variables. It tells us how well the model explains the variability in the data.  
 
 ### Formula  
-$$
-R^2 = 1 - \frac{\sum_{i=1}^{n} (y_i - \hat{y}_i)^2}{\sum_{i=1}^{n} (y_i - \bar{y})^2}
-$$
+
+![image](https://github.com/user-attachments/assets/9a6b873f-c7ea-4c42-bafb-29d441a71454)
 
 Where:  
 - $\bar{y}$= mean of the actual values  
