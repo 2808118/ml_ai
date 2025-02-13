@@ -35,14 +35,7 @@ Regression models are used to predict continuous outcomes, but how do we know if
 MAE measures the average absolute difference between predicted and actual values. It’s a straightforward metric that gives you an idea of how far off your predictions are, on average.  
 
 ### Formula  
-$$
-\text{MAE} = \frac{1}{n} \sum_{i=1}^{n} \left| y_i - \hat{y}_i \right|
-$$
-
-Where:  
-- ( $y_i$ ) = actual value  
-- ( $\hat{y}_i$ ) = predicted value  
-- \( n \) = number of observations  
+![image](https://github.com/user-attachments/assets/65dcebb8-e16a-4f83-808b-b41198eabfbc)
 
 ### Interpretation  
 - MAE is a measure of **accuracy**.  
@@ -56,9 +49,7 @@ Where:
 RMSE measures the square root of the average squared differences between predicted and actual values. It penalizes larger errors more heavily than MAE.  
 
 ### Formula  
-$$
-\text{RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2}
-$$
+![image](https://github.com/user-attachments/assets/8e4fa028-937b-4467-8e90-547fc5a82e1a)
 
 ### Interpretation  
 - RMSE is also a measure of **accuracy**, but it’s more sensitive to outliers.  
@@ -75,12 +66,8 @@ $$
 R-squared measures the proportion of the variance in the dependent variable that is predictable from the independent variables. It tells us how well the model explains the variability in the data.  
 
 ### Formula  
-
-![image](https://github.com/user-attachments/assets/9a6b873f-c7ea-4c42-bafb-29d441a71454)
-
-Where:  
-- $\bar{y}$= mean of the actual values  
-
+![image](https://github.com/user-attachments/assets/6af5fd23-b2bf-4438-bffa-29533cbb7ac4)
+ 
 ### Interpretation  
 - R-squared ranges from 0 to 1.  
   - \(R^2 = 1\): The model explains all the variability in the data (perfect fit).  
