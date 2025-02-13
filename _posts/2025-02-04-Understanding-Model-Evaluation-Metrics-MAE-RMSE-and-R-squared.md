@@ -1,3 +1,9 @@
+---
+layout: post
+title: 2025.02.13 Understanding Model Evaluation Metrics: MAE, RMSE, and R-squared  
+tags: R, Machine Learning
+categories: R, Machine Learning
+---
 # Understanding Model Evaluation Metrics: MAE, RMSE, and R-squared  
 
 When building regression models, it's crucial to evaluate their performance using appropriate metrics. Three of the most commonly used metrics are **Mean Absolute Error (MAE)**, **Root Mean Squared Error (RMSE)**, and **R-squared (R²)**. But what do these metrics actually measure? Are they about accuracy, precision, or something else entirely? In this blog, we’ll break down these metrics, explain their formulas, and clarify how they help us assess model performance.  
