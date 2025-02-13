@@ -40,6 +40,7 @@ MAE measures the average absolute difference between predicted and actual values
 $$
 \text{MAE} = \frac{1}{n} \sum_{i=1}^{n} \left| y_i - \hat{y}_i \right|
 $$
+
 Where:  
 - ( $y_i$ ) = actual value  
 - ( $\hat{y}_i$ ) = predicted value  
@@ -79,6 +80,7 @@ R-squared measures the proportion of the variance in the dependent variable that
 $$
 R^2 = 1 - \frac{\sum_{i=1}^{n} (y_i - \hat{y}_i)^2}{\sum_{i=1}^{n} (y_i - \bar{y})^2}
 $$
+
 Where:  
 - $\bar{y}$= mean of the actual values  
 
