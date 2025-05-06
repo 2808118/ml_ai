@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025.05.05 Understanding Statistical Coefficients: From Regression to Variation  
+title: 2025.05.05 Understanding Statistical Coefficients From Regression to Variation  
 tags: R, Machine Learning
 categories: R, Machine Learning
 ---
