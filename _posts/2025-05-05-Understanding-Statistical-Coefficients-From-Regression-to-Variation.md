@@ -1,5 +1,9 @@
-# Understanding Statistical Coefficients: From Regression to Variation
-
+---
+layout: post
+title: 2025.05.05 Understanding Statistical Coefficients: From Regression to Variation  
+tags: R, Machine Learning
+categories: R, Machine Learning
+---
 ## Table of Contents
 1. [What Are Coefficients?](#what-are-coefficients)
 2. [Regression Coefficient](#regression-coefficient)
