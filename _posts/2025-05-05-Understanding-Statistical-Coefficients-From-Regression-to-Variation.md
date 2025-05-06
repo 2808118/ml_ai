@@ -41,7 +41,7 @@ coef(model)
 ### Interpretation
 A coefficient of -5.34 for vehicle weight (wt) means each additional ton reduces mileage by 5.34 mpg on average.
 
-## Coefficient of Determination (R²)
+## Coefficient of Determination
 
 ### Definition
 R-squared represents the proportion of variance in the dependent variable explained by the model (0-1 scale).
@@ -56,7 +56,7 @@ summary(model)$r.squared
 - R² = 0.75 → Model explains 75% of data variation
 - Higher values indicate better model fit
 
-## Coefficient of Variation (CV)
+## Coefficient of Variation
 
 ### Definition
 CV is a standardized measure of dispersion expressed as percentage of the mean.
